@@ -5,9 +5,7 @@
 
 - 🌱 I’m currently learning **Golang, Gin**
 
-- 👨‍💻 All of my projects are available at [weebat.xyz](weebat.xyz)
-
-- 💬 Ask me about **something...**
+- 👨‍💻 All of my projects are available at [my-card-site](https://weebat.xyz)
 
 - 📫 How to reach me **batareyka.work@gmail.com**
 
