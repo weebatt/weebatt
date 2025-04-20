@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [oparser](https://github.com/weebatt/oparser)
 
-- 🌱 I’m currently learning **Golang, Gin**
+- 🌱 I’m currently learning **Golang, Echo**
 
 - 👨‍💻 All of my projects are available at [my-card-site](https://weebat.xyz)
 
