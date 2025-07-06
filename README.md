@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alexandr</h1>
 <h3 align="center">A passionate backend and devops developer from Saint-Petersburg</h3>
 
-- 🔭 I’m currently working on [oparser](https://github.com/weebatt/oparser)
+- 🔭 I’m currently working on [FakeId](https://github.com/weebatt/FakeID) and currently studying in WBTech
 
-- 🌱 I’m currently learning **Golang, Echo**
+- 🌱 I’m currently learning **Golang**
 
 - 👨‍💻 All of my projects are available at [my-card-site](https://weebat.xyz)
 
