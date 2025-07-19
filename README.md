@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate backend and devops developer from Saint-Petersburg</h3>
 
-- 🔭 I'm currently working on [FakeId](https://github.com/weebatt/FakeID) and currently studying in WBTech
+- 🔭 I'm currently working on [FakeID](https://readme.weebat.ru:26200) and currently studying in WBTech
 - 🌱 I'm currently learning **Golang**
 - 👨‍💻 All of my projects are available at [my-card-site](https://weebat.xyz)
 - 📫 How to reach me **batareyka.work@gmail.com**
