@@ -108,7 +108,7 @@ ITMO University (St. Petersburg) – B.Sc. in Computer Science, Class of 2027 (e
 English – Upper-Intermediate
 Russian – Native
 
-## CV
+## More information
 You can get deeper into my experience by follow [CV](/cv/CV_ALEXANDROV_ALEXANDR_EN.pdf)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=weebatt&show_icons=true&locale=en&layout=compact&v=2" alt="weebatt" />
