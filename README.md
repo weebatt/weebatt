@@ -109,6 +109,6 @@ English – Upper-Intermediate
 Russian – Native
 
 ## CV
-You can get deeper into my experience by follow [CV](~/cv/CV_ALEXANDROV_ALEXANDR_EN.pdf)
+You can get deeper into my experience by follow [CV](/cv/CV_ALEXANDROV_ALEXANDR_EN.pdf)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=weebatt&show_icons=true&locale=en&layout=compact&v=2" alt="weebatt" />
