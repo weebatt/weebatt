@@ -11,6 +11,19 @@ Motivated backend developer with experience building production tools and automa
 
 ## Tech Stack
 
+Hi, I'm Alexandr
+<h3 align="center">Backend from Saint Petersburg</h3>
+
+Motivated backend developer with experience building production tools and automation systems. I deliver clean, reliable solutions and contribute across the development lifecycle – from research and design to testing and documentation.
+
+🔭 I’m currently a Java/Kotlin Backend Developer at TBank, building an LLM-powered microservice generator.
+
+🌱 I’m currently learning Kotlin.
+
+📫 How to reach me: batareyka.work@gmail.com
+
+## Tech Stack
+
 <div style="display: flex; gap: 40px; flex-wrap: wrap;">
 
   <!-- Left column -->
@@ -102,6 +115,18 @@ Motivated backend developer with experience building production tools and automa
 
   </div>
 </div>
+
+## Education
+ITMO University (St. Petersburg) – B.Sc. in Computer Science, Class of 2027 (expected)
+
+## Languages
+English – Upper-Intermediate
+Russian – Native
+
+## More information
+You can get deeper into my experience by follow [CV](/cv/CV_ALEXANDROV_ALEXANDR_EN.pdf)
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=weebatt&show_icons=true&locale=en&layout=compact&v=2" alt="weebatt" />
 
 ## Education
 ITMO University (St. Petersburg) – B.Sc. in Computer Science, Class of 2027 (expected)
