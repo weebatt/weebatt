@@ -1,4 +1,4 @@
-<h3 align="center">Backend from Saint Petersburg</h3>
+<h3 align="center">Backend developer from Saint Petersburg, ex Siberia</h3>
 
 Hi, I'm Alexandr, motivated backend developer with experience building production tools and automation systems. I deliver clean, reliable solutions and contribute across the development lifecycle – from research and design to testing and documentation.
 
