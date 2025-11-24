@@ -1,28 +1,57 @@
 Hi, I'm Alexandr
-<h3 align="center">A passionate Backend & DevOps Developer from Saint Petersburg, Russia</h3>
-About Me
-I'm a backend developer with a strong focus on Java and Kotlin. I currently work at TBank as a Java/Kotlin Backend Developer, building an LLM-powered platform that converts business workflows into Kotlin microservices. I take pride in delivering clean, reliable solutions and have experience across the full development cycle – from research and design to testing and documentation. Previously, I worked at a startup called Talent Search, where I handled diverse engineering tasks from backend development in Python/Go to setting up CI/CD pipelines and monitoring. I enjoy automating processes and integrating DevOps best practices into my projects. I'm also continuously learning new technologies – right now I'm expanding my knowledge in Go. In addition to my professional work, I'm pursuing a Bachelor's degree in Computer Science at ITMO University (expected 2027). All of my projects are showcased on my personal site. Feel free to check them out, and don't hesitate to reach out via email or connect with me on LinkedIn/Telegram!
+<h3 align="center">Backend & DevOps Developer from Saint Petersburg</h3>
+
+Motivated backend developer with experience building production tools and automation systems. I deliver clean, reliable solutions and contribute across the development lifecycle – from research and design to testing and documentation.
+
+🔭 I’m currently a Java/Kotlin Backend Developer at TBank, building an LLM-powered microservice generator (Proc2Code).
+
+🌱 I’m currently learning Go (Golang) to expand my backend expertise.
+
+👨‍💻 All of my projects are available on my portfolio site.
+
+📫 How to reach me: batareyka.work@gmail.com
+
+📄 Check out my CV here for more details.
+
 Tech Stack
 Programming Languages
-<p align="left"> <a href="https://golang.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/go.svg" alt="go" width="40" height="40"/></a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/kotlin.svg" alt="kotlin" width="40" height="40"/></a> <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=2572&format=png&color=000000" alt="java" width="40" height="40"/></a> </p>
+<p align="left"> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/go.svg" alt="Go" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=2572&format=png&color=000000" alt="Java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/kotlin.svg" alt="Kotlin" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/python.svg" alt="Python" width="40" height="40"/> </a> </p>
 Backend & Frameworks
-<p align="left"> <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/spring.svg" alt="spring" width="40" height="40"/></a> <a href="https://echo.labstack.com/" target="_blank" rel="noreferrer"><img src="https://cdn.freebiesupply.com/logos/thumbs/2x/echo-1-logo.png" alt="echo" width="70" height="40"/></a> </p>
+<p align="left"> <a href="https://spring.io" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/spring.svg" alt="Spring Boot" width="40" height="40"/> </a> <a href="https://echo.labstack.com" target="_blank" rel="noreferrer"> <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/echo-1-logo.png" alt="Echo Framework" width="70" height="40"/> </a> <a href="https://camunda.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/camunda.svg" alt="Camunda BPM" width="40" height="40"/> </a> </p>
 Frontend
-<p align="left"> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/vuedotjs.svg" alt="vuejs" width="40" height="40"/></a> </p>
+<p align="left"> <a href="https://vuejs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/vuedotjs.svg" alt="Vue.js" width="40" height="40"/> </a> </p>
 Databases
-<p align="left"> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/postgresql.svg" alt="postgresql" width="40" height="40"/></a> <a href="https://redis.io" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/redis.svg" alt="redis" width="40" height="40"/></a> </p>
+<p align="left"> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/postgresql.svg" alt="PostgreSQL" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/redis.svg" alt="Redis" width="40" height="40"/> </a> </p>
 DevOps & Infrastructure
-<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/docker.svg" alt="docker" width="40" height="40"/></a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/nginx.svg" alt="nginx" width="40" height="40"/></a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linux.svg" alt="linux" width="40" height="40"/></a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/gnubash.svg" alt="bash" width="40" height="40"/></a> </p>
+<p align="left"> <a href="https://www.docker.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/docker.svg" alt="Docker" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/nginx.svg" alt="Nginx" width="40" height="40"/> </a> <a href="https://www.linux.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linux.svg" alt="Linux" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/gnubash.svg" alt="Bash" width="40" height="40"/> </a> </p>
 Monitoring & Observability
-<p align="left"> <a href="https://prometheus.io/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/prometheus.svg" alt="prometheus" width="40" height="40"/></a> <a href="https://grafana.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/grafana.svg" alt="grafana" width="40" height="40"/></a> </p>
+<p align="left"> <a href="https://prometheus.io" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/prometheus.svg" alt="Prometheus" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/grafana.svg" alt="Grafana" width="40" height="40"/> </a> </p>
 Tools & Version Control
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/git.svg" alt="git" width="40" height="40"/></a> </p>
+<p align="left"> <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/git.svg" alt="Git" width="40" height="40"/> </a> <a href="https://about.gitlab.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/gitlab.svg" alt="GitLab CI/CD" width="40" height="40"/> </a> </p>
 Experience
-Java/Kotlin Backend Developer – TBank (Aug 2025 – Present)
-Core developer on a proprietary CLI platform Proc2Code, which uses LLMs to convert Camunda-based workflows into production-ready Kotlin microservices. I am responsible for feature development, technical research, testing (with JaCoCo and JUnit5), and writing RFC documentation. I also built a companion tool Proc2Text that auto-generates documentation from workflow definitions, and I mentor an intern on this project. Additionally, I collaborate with other teams to integrate our solution and contribute to deployment strategies for the MCP server. Software Developer – Talent Search (Feb 2025 – Jun 2025)
-Worked in a fast-paced startup environment handling both backend development and DevOps tasks. Implemented GitLab CI/CD pipelines and developed features for the messaging system (including read/unread message logic in a chat module). Utilized Python with MCP SDK for internal tooling and Go for certain services. Set up monitoring dashboards with Grafana and alerts with Prometheus, and assisted QA by thoroughly testing new features and tracking bugs.
+
+Java/Kotlin Backend Developer – TBank (Aug 2025 – Present): Core developer of Proc2Code, an LLM-powered CLI tool that converts Camunda workflows into production-ready Kotlin microservices. Deliver features end-to-end (from research to testing) and author technical documentation (RFCs). Also built Proc2Text for automated workflow documentation and mentored an intern on this project.
+
+Developer – Talent Search (Feb 2025 – Jun 2025): Handled diverse engineering tasks in a startup environment, from backend development to DevOps. Built CI/CD pipelines with GitLab CI and implemented a chat feature with read/unread message status. Integrated monitoring with Grafana/Prometheus and assisted QA with feature testing and issue tracking.
+
 Education
-B.Sc. in Computer Science – ITMO University (Sept 2023 – Present)
-Saint Petersburg, Russia (Expected graduation: 2027)
-Connect with Me
-<p align="left"> <a href="mailto:batareyka.work@gmail.com"><img src="https://img.icons8.com/ios-filled/40/000000/gmail.png" alt="email"/></a> <a href="https://linkedin.com/in/weebatt" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/ios-filled/40/000000/linkedin.png" alt="LinkedIn"/></a> <a href="https://t.me/weebatt" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/ios-filled/40/000000/telegram-app.png" alt="Telegram"/></a> </p> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=weebatt&show_icons=true&locale=en&layout=compact&v=2" alt="weebatt" />
+
+ITMO University (St. Petersburg) – B.Sc. in Computer Science, Class of 2027 (expected)
+
+Languages
+
+English – Upper-Intermediate
+
+Russian – Native
+
+Contact
+
+Email: batareyka.work@gmail.com
+
+GitHub: weebatt
+
+LinkedIn: weebatt
+
+Telegram: @weebatt
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=weebatt&show_icons=true&locale=en&layout=compact&v=2" alt="weebatt" />
