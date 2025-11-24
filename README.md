@@ -11,95 +11,14 @@ Motivated backend developer with experience building production tools and automa
 
 ## Tech Stack
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
+## Tech Stack
 
-      <h3>Programming Languages</h3>
-      <p align="left">
-        <a href="https://golang.org" target="_blank" rel="noreferrer">
-          <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/go.svg" alt="Go" width="40" height="40"/>
-        </a>
-        <a href="https://www.java.com" target="_blank" rel="noreferrer">
-          <img src="https://img.icons8.com/?size=100&id=2572&format=png&color=000000" alt="Java" width="40" height="40"/>
-        </a>
-        <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-          <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/kotlin.svg" alt="Kotlin" width="40" height="40"/>
-        </a>
-      </p>
-
-      <h3>Backend &amp; Frameworks</h3>
-      <p align="left">
-        <a href="https://spring.io" target="_blank" rel="noreferrer">
-          <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/spring.svg" alt="Spring Boot" width="40" height="40"/>
-        </a>
-        <a href="https://echo.labstack.com" target="_blank" rel="noreferrer">
-          <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/echo-1-logo.png" alt="Echo Framework" width="70" height="40"/>
-        </a>
-        <a href="https://camunda.com" target="_blank" rel="noreferrer">
-          <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/camunda.svg" alt="Camunda BPM" width="40" height="40"/>
-        </a>
-      </p>
-
-      <h3>Frontend</h3>
-      <p align="left">
-        <a href="https://vuejs.org" target="_blank" rel="noreferrer">
-          <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/vuedotjs.svg" alt="Vue.js" width="40" height="40"/>
-        </a>
-      </p>
-
-    </td>
-    <td valign="top" width="50%">
-
-      <h3>Databases</h3>
-      <p align="left">
-        <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-          <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/postgresql.svg" alt="PostgreSQL" width="40" height="40"/>
-        </a>
-        <a href="https://redis.io" target="_blank" rel="noreferrer">
-          <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/redis.svg" alt="Redis" width="40" height="40"/>
-        </a>
-      </p>
-
-      <h3>DevOps &amp; Infrastructure</h3>
-      <p align="left">
-        <a href="https://www.docker.com" target="_blank" rel="noreferrer">
-          <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/docker.svg" alt="Docker" width="40" height="40"/>
-        </a>
-        <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-          <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/nginx.svg" alt="Nginx" width="40" height="40"/>
-        </a>
-        <a href="https://www.linux.org" target="_blank" rel="noreferrer">
-          <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linux.svg" alt="Linux" width="40" height="40"/>
-        </a>
-        <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-          <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/gnubash.svg" alt="Bash" width="40" height="40"/>
-        </a>
-      </p>
-
-      <h3>Monitoring &amp; Observability</h3>
-      <p align="left">
-        <a href="https://prometheus.io" target="_blank" rel="noreferrer">
-          <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/prometheus.svg" alt="Prometheus" width="40" height="40"/>
-        </a>
-        <a href="https://grafana.com" target="_blank" rel="noreferrer">
-          <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/grafana.svg" alt="Grafana" width="40" height="40"/>
-        </a>
-      </p>
-
-      <h3>Tools &amp; Version Control</h3>
-      <p align="left">
-        <a href="https://git-scm.com" target="_blank" rel="noreferrer">
-          <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/git.svg" alt="Git" width="40" height="40"/>
-        </a>
-        <a href="https://about.gitlab.com" target="_blank" rel="noreferrer">
-          <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/gitlab.svg" alt="GitLab CI/CD" width="40" height="40"/>
-        </a>
-      </p>
-
-    </td>
-  </tr>
-</table>
+| | |
+| --- | --- |
+| **Programming Languages**  <br> [![Go](https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/go.svg)](https://golang.org) [![Java](https://img.icons8.com/?size=100&id=2572&format=png&color=000000)](https://www.java.com) [![Kotlin](https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/kotlin.svg)](https://kotlinlang.org) | **Databases**  <br> [![PostgreSQL](https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/postgresql.svg)](https://www.postgresql.org) [![Redis](https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/redis.svg)](https://redis.io) |
+| **Backend & Frameworks**  <br> [![Spring](https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/spring.svg)](https://spring.io) [![Echo](https://cdn.freebiesupply.com/logos/thumbs/2x/echo-1-logo.png)](https://echo.labstack.com) [![Camunda](https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/camunda.svg)](https://camunda.com) | **DevOps & Infrastructure**  <br> [![Docker](https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/docker.svg)](https://www.docker.com) [![Nginx](https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/nginx.svg)](https://www.nginx.com) [![Linux](https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linux.svg)](https://www.linux.org) [![Bash](https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/gnubash.svg)](https://www.gnu.org/software/bash/) |
+| **Frontend**  <br> [![Vue.js](https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/vuedotjs.svg)](https://vuejs.org) | **Monitoring & Observability**  <br> [![Prometheus](https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/prometheus.svg)](https://prometheus.io) [![Grafana](https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/grafana.svg)](https://grafana.com) |
+|  | **Tools & Version Control**  <br> [![Git](https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/git.svg)](https://git-scm.com) [![GitLab](https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/gitlab.svg)](https://about.gitlab.com) |
 
 ## Education
 ITMO University (St. Petersburg) – B.Sc. in Computer Science, Class of 2027 (expected)
