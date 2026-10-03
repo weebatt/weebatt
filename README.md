@@ -1,18 +1,41 @@
-<h3 align="center">Backend developer from Saint Petersburg, ex Siberia</h3>
+# Alexandr Alexandrov
 
-Hi, I'm Alexandr, motivated backend developer with experience building production tools and automation systems. I deliver clean, reliable solutions and contribute across the development lifecycle – from research and design to testing and documentation.
+```text
+$ whoami
+alexandr · backend engineer · Saint Petersburg
 
-🔭 I’m currently a Java/Kotlin Backend Developer at TBank, building an LLM-powered microservice generator.
+$ current_team
+T-Bank / TBundle Platform / subscriptions
 
-🌱 I’m currently learning Kotlin.
+$ active_stack
+Java 17 / 21 / 25  +  Spring Boot
+Kafka  +  PostgreSQL  +  Redis
+```
 
-📫 How to reach me: batareyka.work@gmail.com
+[Email](mailto:batareyka.work@gmail.com) · [CV](cv/CV_ALEXANDROV_ALEXANDR_EN.pdf)
 
-## Tech Stack
+## About
 
-Programming Languages <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=2572&format=png&color=000000" alt="Java" width="40" height="40"/> </a><a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/kotlin.svg" alt="Kotlin" width="40" height="40"/> </a><a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/go.svg" alt="Go" width="40" height="40"/> </a> </p> Backend & Frameworks <p align="left"> <a href="https://spring.io" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/spring.svg" alt="Spring Boot" width="40" height="40"/> </a> <a href="https://camunda.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/camunda.svg" alt="Camunda BPM" width="40" height="40"/> </a> </p> Databases <p align="left"> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/postgresql.svg" alt="PostgreSQL" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/redis.svg" alt="Redis" width="40" height="40"/> </a> </p> DevOps & Infrastructure <p align="left"> <a href="https://www.docker.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/docker.svg" alt="Docker" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/nginx.svg" alt="Nginx" width="40" height="40"/> </a> <a href="https://www.linux.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linux.svg" alt="Linux" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/gnubash.svg" alt="Bash" width="40" height="40"/> </a> </p> Monitoring & Observability <p align="left"> <a href="https://prometheus.io" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/prometheus.svg" alt="Prometheus" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/grafana.svg" alt="Grafana" width="40" height="40"/> </a> </p> Tools & Version Control <p align="left"> <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/git.svg" alt="Git" width="40" height="40"/> </a> <a href="https://about.gitlab.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/gitlab.svg" alt="GitLab CI/CD" width="40" height="40"/> </a> </p>
+I build reliable backend services and developer tools. On **TBundle Platform**, T-Bank's subscriptions platform team, I work primarily with Java and Spring Boot. We have one Kotlin project. Previously, I worked on an LLM-powered microservice generator at T-Bank.
 
-## More information
-You can get deeper into my experience by follow [CV](/cv/CV_ALEXANDROV_ALEXANDR_EN.pdf)
+I take projects from research and design through implementation, testing, and documentation. Originally from Siberia, now based in Saint Petersburg.
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=weebatt&show_icons=true&locale=en&layout=compact&v=2" alt="weebatt" />
+## Toolbox
+
+```text
+LANGUAGES       Java · Kotlin · Go
+BACKEND         Spring Boot · Camunda BPM
+DATA / EVENTS   PostgreSQL · Redis · Kafka
+INFRASTRUCTURE  Docker · Nginx · Linux · Bash
+OBSERVABILITY   Prometheus · Grafana
+DELIVERY        Git · GitLab CI/CD
+```
+
+## Public GitHub snapshot
+
+<p align="center">
+  <img alt="GitHub activity for weebatt" src="https://github-readme-stats.vercel.app/api?username=weebatt&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165">
+  <img alt="Languages in weebatt's public GitHub repositories" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weebatt&layout=compact&hide_border=true&theme=transparent&langs_count=6&hide=html,css" height="165">
+</p>
+
+<sub>These cards reflect public GitHub activity and do not represent my work in private T-Bank repositories.</sub>
