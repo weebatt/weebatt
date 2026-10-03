@@ -37,5 +37,3 @@ DELIVERY        Git · GitLab CI/CD
   <img alt="GitHub activity for weebatt" src="https://github-readme-stats.vercel.app/api?username=weebatt&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165">
   <img alt="Languages in weebatt's public GitHub repositories" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weebatt&layout=compact&hide_border=true&theme=transparent&langs_count=6&hide=html,css" height="165">
 </p>
-
-<sub>These cards reflect public GitHub activity and do not represent my work in private T-Bank repositories.</sub>
